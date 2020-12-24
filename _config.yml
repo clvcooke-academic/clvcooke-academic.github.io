@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alyssa H. Sinclair"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   bio              : "PhD Candidate, Cognitive Neuroscience, Duke University"
   location         : "Durham, NC"
   employer         :
@@ -175,15 +175,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
