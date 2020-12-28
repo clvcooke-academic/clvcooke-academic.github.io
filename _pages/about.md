@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD Candidate in Cognitive Neuroscience at Duke University, where I'm co-supervised by <a href="https://www.adcocklab.org/">Allison Adcock</a> and <a href="https://www.mcablab.science/">Gregory Samanez-Larkin </a>. I graduated from the University of Toronto with a Research Specialist B.Sc. in Psychology. At UofT, I worked with Morgan Barense and William Cunningham to research how prediction error influences episodic memories and social learning. 
+I'm a PhD Candidate in Cognitive Neuroscience at Duke University, where I'm co-supervised by <a href="https://www.adcocklab.org/">Alison Adcock</a> and <a href="https://www.mcablab.science/">Gregory Samanez-Larkin </a>. I graduated from the University of Toronto with a Research Specialist B.Sc. in Psychology. At UofT, I worked with Morgan Barense and William Cunningham to research how prediction error influences episodic memories and social learning. 
 
 Research Interests
 ======
