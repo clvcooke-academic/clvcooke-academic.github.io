@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards & Press"
-permalink: /awards-press/
+permalink: /awards/
 author_profile: true
 ---
 
