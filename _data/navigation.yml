@@ -12,5 +12,8 @@ main:
   - title: "Awards"
     url: /awards/
 
+  - title: "Press"
+    url: /press/
+
   - title: "CV"
     url: /files/CV_Sinclair.pdf
