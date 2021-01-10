@@ -1,12 +1,11 @@
 ---
-title: "Closed-minded cognition: Right-wing authoritarianism is negatively related to belief updating following prediction error"
+title: "Right-wing authoritarians are less likely to update false beliefs after corrective feedback, study finds"
 collection: publications
-permalink: /publication/closed-minded-cognition
+permalink: https://www.psypost.org/2020/08/right-wing-authoritarians-are-less-likely-to-update-false-beliefs-after-corrective-feedback-study-finds-57674
 excerpt: ''
 date: 2020-07-27
 venue: 'Psychonomic Bulletin & Review'
-paperurl: 'https://link.springer.com/article/10.3758/s13423-020-01767-y'
-paperpdf: '/files/Sinclair2020_Article_Closed-mindedCognitionRight-wi.pdf'
-citation: 'Sinclair, Alyssa H., Matthew L. Stanley, and Paul Seli. "Closed-minded cognition: Right-wing authoritarianism is negatively related to belief updating following prediction error." Psychonomic bulletin & review 27.6 (2020): 1348-1361.'
+paperurl: 'https://www.psypost.org/2020/08/right-wing-authoritarians-are-less-likely-to-update-false-beliefs-after-corrective-feedback-study-finds-57674'
+citation: 'PsyPost, 08/15/20'
 ---
  
