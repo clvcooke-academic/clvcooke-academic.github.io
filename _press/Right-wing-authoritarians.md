@@ -1,6 +1,6 @@
 ---
 title: "Right-wing authoritarians are less likely to update false beliefs after corrective feedback, study finds"
-collection: publications
+collection: press
 permalink: https://www.psypost.org/2020/08/right-wing-authoritarians-are-less-likely-to-update-false-beliefs-after-corrective-feedback-study-finds-57674
 excerpt: ''
 date: 2020-07-27
