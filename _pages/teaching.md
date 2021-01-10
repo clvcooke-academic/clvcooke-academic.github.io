@@ -17,7 +17,7 @@ Duke University
 * **Motivation & Decision Sciences Research Internship Program**
   * Program Coordinator, Mentor, & Lecturer
   
-\ 
+ 
 University of Toronto
 ======
 * **VIC 171: Methodology, Theory, & Practices in the Natural Sciences**
