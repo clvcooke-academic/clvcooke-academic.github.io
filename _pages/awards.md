@@ -15,7 +15,7 @@ Selected Fellowships & Research Grants
 * James B. Duke Graduate Fellowship, 2018-2021
 * Duke University COVID-19 Research Grant, 2020
 
-</br>
+
 Selected Awards & Honors
 ======
 * Awards for Academic Achievement at the University of Toronto (Valedictorian of Graduating Class)
