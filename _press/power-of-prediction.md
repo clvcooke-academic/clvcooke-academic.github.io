@@ -1,5 +1,5 @@
 ---
-title: "The Power of Prediction"
+title: "The power of prediction"
 collection: press
 permalink: https://sites.google.com/view/efratfurst/powerofprediction?authuser=0
 excerpt: ''
