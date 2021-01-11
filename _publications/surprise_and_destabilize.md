@@ -1,5 +1,5 @@
 ---
-title: "Surprise and destabilize: prediction error influences episodic memory reconsolidation"
+title: "Surprise and Destabilize: Prediction Error Influences Episodic Memory Reconsolidation"
 collection: publications
 permalink: /publication/surprise-and-destabilize
 excerpt: ''
