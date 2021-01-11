@@ -9,7 +9,7 @@ author_profile: true
 
 
 Duke University
-======
+---------
 * **NEUROSCI 101: Biological Bases of Behavior**
   * Teaching Assistant for Dr. Karen Murphy and Dr. Minna Ng
 * **PSY 444: Neuroscience Service Learning**
@@ -19,7 +19,7 @@ Duke University
   
  
 University of Toronto
-======
+---------
 * **VIC 171: Methodology, Theory, & Practices in the Natural Sciences**
   * Teaching Assistant for Dr. Brian Baigrie
 * **Independent Tutor for University & High School Students**
