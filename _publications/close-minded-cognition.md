@@ -1,5 +1,5 @@
 ---
-title: "Closed-minded cognition: Right-wing authoritarianism is negatively related to belief updating following prediction error"
+title: "Closed-Minded Cognition: Right-Wing Authoritarianism is Negatively Related to Belief Updating Following Prediction Error"
 collection: publications
 permalink: /publication/closed-minded-cognition
 excerpt: ''
