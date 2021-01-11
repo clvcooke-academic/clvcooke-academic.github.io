@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+<br>  
 
 Duke University
 ---------
@@ -15,7 +16,8 @@ Duke University
 * **PSY 444: Neuroscience Service Learning**
   * Teaching Assistant for Dr. Minna Ng
 * **Motivation & Decision Sciences Research Internship Program**
-  * Program Coordinator, Mentor, & Lecturer
+  * Program Coordinator, Mentor, & Lecturer <br>  
+  
   
  
 University of Toronto
