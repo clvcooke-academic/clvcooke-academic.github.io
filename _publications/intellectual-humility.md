@@ -7,6 +7,6 @@ date: 2020-06-02
 venue: 'Journal of Personality'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12566'
 paperpdf: '/files/intellectual_humility_2020.pdf'
-citation: 'Stanley, Matthew L., Alyssa H. Sinclair, and Paul Seli. "Intellectual Humility and Perceptions of Political Opponents." Journal of Personality (2020).'
+citation: 'Stanley, M. L., Sinclair, A. H., & Seli, P. (2020). Intellectual humility and perceptions of political opponents. Journal of Personality, 88(6), 1196–1216. https://doi.org/10.1111/jopy.12566'
 ---
  
