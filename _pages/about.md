@@ -21,7 +21,7 @@ Key Projects
 ======
 1.    Investigating how surprising reminders let episodic memories be updated
 2.    Changing beliefs and intentions about risky behaviors during the COVID-19 pandemic
-3.    Exploring how the motivational and affective context of learning shapes responses to prediction error
-4.    Modeling the relationship between episodic memory and model-based reinforcement learning
+3.    Exploring how the motivational context of learning shapes responses to prediction error
+4.    Connecting episodic memory with model-based reinforcement learning
 
 
