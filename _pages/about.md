@@ -13,16 +13,15 @@ My name is Allie, and I'm a PhD Candidate in Cognitive Neuroscience at Duke Univ
 
 Research Interests
 ======
-I'm interested in how expectation and surprise influence learning. Surprising new information can modify memories, bearing implications for education, eyewitness testimony, and combating the spread of misinformation. Memory malleability is a two-sided coin: False memories can be harmful, but malleability can also allow us to update memories with new information. Because our flexible brains learn from error, we are able to correct mistakes and integrate old and new knowledge. My long-term goals include extending this line of research to improve education and science communication, combat real-world false memories, and understand belief updating. To explore these research questions, I use a combination of behavioral and fMRI methods.
+I'm interested in how expectation and surprise influence learning. Surprising new information can modify memories, bearing implications for education, eyewitness testimony, belief and updating. Memory malleability is a two-sided coin: Our flexible brains recreate experiences, which can produce false memories but can also help us update our knowledge with relevant new information. My long-term goals include applying this research to improve education and science communication, combat the spread of misinformation, and understand belief updating. To explore these research questions, I conduct both behavioral and fMRI studies.
 
 
 
-Ongoing Projects
+Key Projects
 ======
-1.    Investigating how surprising reminders distort naturalistic episodic memories (behavior & fMRI)
-2.    Developing an intervention to change beliefs and intentions about risky activities during the COVID-19 pandemic (behavior)
-3.    Testing how the motivational and affective context of learning shapes responses to prediction error (behavior & fMRI)
-4.    Modeling the interactions between episodic memory and model-based reinforcement learning (behavior, computational modelling, & fMRI)
-5.    Exploring individual differences in belief updating and learning from error (behavior)
+1.    Investigating how surprising reminders let episodic memories be updated (behavior & fMRI)
+2.    Changing beliefs and intentions about risky behaviors during the COVID-19 pandemic (behavior)
+3.    Exploring how the motivational and affective context of learning shapes responses to prediction error (behavior & fMRI)
+4.    Modeling the relationship between episodic memory and model-based reinforcement learning (behavior, computational modelling, & fMRI)
 
 
