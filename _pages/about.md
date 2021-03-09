@@ -19,9 +19,9 @@ I'm interested in how expectation and surprise influence learning. Surprising ne
 
 Key Projects
 ======
-1.    Investigating how surprising reminders let episodic memories be updated (behavior & fMRI)
-2.    Changing beliefs and intentions about risky behaviors during the COVID-19 pandemic (behavior)
-3.    Exploring how the motivational and affective context of learning shapes responses to prediction error (behavior & fMRI)
-4.    Modeling the relationship between episodic memory and model-based reinforcement learning (behavior, computational modelling, & fMRI)
+1.    Investigating how surprising reminders let episodic memories be updated
+2.    Changing beliefs and intentions about risky behaviors during the COVID-19 pandemic
+3.    Exploring how the motivational and affective context of learning shapes responses to prediction error
+4.    Modeling the relationship between episodic memory and model-based reinforcement learning
 
 
