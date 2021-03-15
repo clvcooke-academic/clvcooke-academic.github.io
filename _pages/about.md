@@ -13,7 +13,7 @@ My name is Allie, and I'm a PhD Candidate in Cognitive Neuroscience at Duke Univ
 
 Research Interests
 ======
-I'm interested in how expectation and surprise influence learning. Surprising new information can modify memories, bearing implications for education, eyewitness testimony, belief and updating. Memory malleability is a two-sided coin: Our flexible brains recreate experiences, which can produce false memories but can also help us update our knowledge with relevant new information. My long-term goals include applying this research to improve education and science communication, combat the spread of misinformation, and understand belief updating. To explore these research questions, I conduct both behavioral and fMRI studies.
+I'm interested in how expectation and surprise influence learning. Surprising new information can modify memories, bearing implications for education, eyewitness testimony, and belief updating. Memory malleability is a two-sided coin: Our flexible brains recreate experiences, which can produce false memories but can also help us update our knowledge with relevant new information. My long-term goals include applying this research to improve education and science communication, combat the spread of misinformation, and understand belief updating. To explore these research questions, I conduct both behavioral and fMRI studies.
 
 
 
