@@ -14,9 +14,11 @@ Duke University
 * **NEUROSCI 101: Biological Bases of Behavior**
   * Teaching Assistant for Dr. Karen Murphy and Dr. Minna Ng
 * **PSY 444: Neuroscience Service Learning**
-  * Teaching Assistant for Dr. Minna Ng
-* **Motivation & Decision Sciences Research Internship Program**
-  * Program Coordinator, Mentor, & Lecturer <br>  
+  * Teaching Assistant for Dr. Minna Ng, Guest Lecturer
+* **Cognitive Neuroscience Research Internship Program**
+  * Program Coordinator, Mentor, & Lecturer 
+* **Duke Neuro Methods Workshops**
+  * Guest Lecturer<br>  
   
   
  
