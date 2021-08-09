@@ -1,5 +1,5 @@
 ---
-title: "Allie Sinclair soars through university as U of T's top student"
+title: "Allie Sinclair Soars Through University as U of T's Top Student"
 collection: press
 permalink: https://www.utoronto.ca/news/allie-sinclair-soars-through-university-u-t-s-top-student
 excerpt: ''
