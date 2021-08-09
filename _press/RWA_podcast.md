@@ -1,5 +1,5 @@
 ---
-title: "Right-wing authoritarianism and reduced updating"
+title: "Right-Wing Authoritarianism and Reduced Updating"
 collection: press
 permalink: https://featuredcontent.psychonomic.org/right-wing-authoritarianism-and-reduced-updating/
 excerpt: ''
