@@ -11,17 +11,11 @@ My name is Allie, and I'm a PhD Candidate in Cognitive Neuroscience at Duke Univ
 
 
 
-Research Interests
+Research Overview
 ======
-I'm interested in how expectation and surprise influence learning. Surprising new information can update our memories, bearing implications for education, eyewitness testimony, belief updating, and treating pathological memories. Memory malleability is a two-sided coin: Our flexible brains recreate experiences, which can produce false memories but can also help us update our knowledge with relevant new information. My long-term goals include applying this research to improve education, communicate science, and combat the spread of misinformation. To explore these research questions, I conduct both behavioral and fMRI studies.
+What can we do to help people learn from error? I'm interested in **how** and **why** we update our memories and beliefs in response to feedback. Our flexible brains can recreate and revise our memories, letting us correct mistakes and integrate old and new knowledge. Yet we don't always learn from feedback! My research explores the cognitive and neural conditions that make memory updating possible. 
 
 
-
-Key Projects
+Applications
 ======
-1.    Investigating how surprising reminders let episodic memories be updated
-2.    Changing beliefs and intentions about risky behaviors during the COVID-19 pandemic
-3.    Exploring how the motivational context of learning shapes responses to prediction error
-4.    Connecting episodic memory with model-based reinforcement learning
-
-
+Understanding (and encouraging) learning from error lets us address many real-world problems. In ongoing work, I am testing applications for **improving education**, **correcting misinformation**, and **changing beliefs about risk**.
