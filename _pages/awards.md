@@ -14,7 +14,6 @@ Selected Fellowships & Research Grants
 * Duke Institute for Brain Sciences Germinator Award, 2019-2021
 * James B. Duke Graduate Fellowship, 2018-2021
 * Duke University COVID-19 Research Grant, 2020 <br>  
-<br>
 
 Selected Awards & Honors
 -------
