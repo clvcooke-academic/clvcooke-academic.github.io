@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Allie, and I'm a PhD Candidate in Cognitive Neuroscience at Duke University, where I'm co-supervised by <a href="https://www.adcocklab.org/">Dr. Alison Adcock</a> and <a href="https://www.mcablab.science/">Dr. Gregory Samanez-Larkin</a>. Before I came to Duke, I earned an Honours B.Sc. in Psychology (Research Specialization) from the University of Toronto, where I graduated as the top student of my year. There, I worked with <a href="https://barense.psych.utoronto.ca/">Dr. Morgan Barense</a> and <a href="https://socialcognitivescience.ca/">Dr. William Cunningham</a> to research how prediction error influences episodic memories and social learning. 
+My name is Allie, and I'm a PhD Candidate in Cognitive Neuroscience at Duke University, where I'm co-supervised by <a href="https://www.adcocklab.org/">Dr. Alison Adcock</a> and <a href="https://www.mcablab.science/">Dr. Gregory Samanez-Larkin</a>. Before I came to Duke, I earned an Honours B.Sc. in Psychology (Research Specialization) from the University of Toronto. There, I worked with <a href="https://barense.psych.utoronto.ca/">Dr. Morgan Barense</a> and <a href="https://socialcognitivescience.ca/">Dr. William Cunningham</a> to research how prediction error influences episodic memories and social learning. 
 
 
 
