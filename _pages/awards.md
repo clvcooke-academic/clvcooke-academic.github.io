@@ -12,8 +12,7 @@ Selected Fellowships
 * National Science Foundation Graduate Research Fellowship (NSF-GRFP), 2019-2023
 * Natural Sciences & Engineering Council Postgraduate Scholarship (NSERC-PGSD), 2019-2021
 * James B. Duke Graduate Fellowship, 2018-2021
-
-<br>  
+ 
 
 Selected Grants
 -------
@@ -22,7 +21,6 @@ Selected Grants
 * Psychology & Neuroscience Outreach Grant, *Charles Lafitte Foundation*, 2021-2022
 * COVID-19 Research Grant, *Duke University*, 2020 
 
-<br>
 
 Selected Awards & Honors
 -------
