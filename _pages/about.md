@@ -19,4 +19,6 @@ Research Overview
 ======
 How can **educators** help students learn from their mistakes? How can **public health interventions** change beliefs, attitudes, and risky behaviors? How do we motivate individuals to take action against **climate change**?
 
-These diverse real-world challenges are unified by common cognitive and neural mechanisms. My research on **learning, memory, and motivation** reveals these underlying mechanisms to inspire interventions. I curate a metaphorical **intervention toolbox** filled with flexible, generalizable strategies that can be used to improve **learning, behavior change, and communication** across domains. To this end, I use a combination of functional neuroimaging, controlled behavioral experiments, and large-scale field studies.
+These diverse real-world challenges are unified by common cognitive and neural mechanisms. My research on **learning, memory, and motivation** reveals these underlying mechanisms to inspire interventions. 
+
+I curate a metaphorical **intervention toolbox** filled with flexible, generalizable strategies that can be used to improve **learning, behavior change, and communication** across domains. To this end, I use a combination of functional neuroimaging, controlled behavioral experiments, and large-scale field studies.
