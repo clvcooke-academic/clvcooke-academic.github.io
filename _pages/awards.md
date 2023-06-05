@@ -9,6 +9,7 @@ author_profile: true
 
 Selected Fellowships
 -------
+* Joan Bossert Postdoctoral Research Fellowship, *Penn Center for Science, Sustainability, & the Media*, 2023-2025
 * Graduate Research Fellowship, *National Science Foundation*, 2019-2023
 * Postgraduate Scholarship, *Natural Sciences & Engineering Council of Canada*, 2019-2021
 * James B. Duke Graduate Fellowship, *Duke University*, 2018-2022
@@ -17,7 +18,7 @@ Selected Fellowships
 Selected Grants
 -------
 * Germinator Research Award, *Duke University*, 2019-2023
-* Coronavirus Contract, *Centers for Disease Control and Prevention*, 2021-2022
+* Coronavirus Contract, *Centers for Disease Control and Prevention*, 2021-2023
 * Psychology & Neuroscience Outreach Grant, *Charles Lafitte Foundation*, 2021-2022
 * COVID-19 Research Grant, *Duke University*, 2020 
 
