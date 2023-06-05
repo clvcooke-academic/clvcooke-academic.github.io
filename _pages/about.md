@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Allie, and I'm a **cognitive neuroscientist**. I develop interventions that help us learn from error, update beliefs, and make choices that are better for our health, planet, and democracy. My research applies cognitive and neural mechanisms to **education, health, climate change**, and more. 
+My name is Allie, and I'm a **cognitive neuroscientist**. I develop interventions that help us learn from error, update beliefs, and make choices that are better for our health, planet, and democracy.
 
 I'm currently a postdoctoral fellow at the **University of Pennsylvania**, where I am supported by the Joan Bossert Postdoctoral Fellowship in the <a href="https://web.sas.upenn.edu/pcssm/">Center for Science, Sustainability, & the Media.</a> I primarily collaborate with Prof. Emily Falk and others in the <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Communication Neuroscience Lab.</a>
 
