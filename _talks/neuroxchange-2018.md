@@ -1,5 +1,5 @@
 ---
-title: "Surprise & Destabilize: Prediction Error Influences Episodic Memory Reconsolidation"
+title: "Surprise & destabilize: Prediction error influences episodic memory reconsolidation"
 authors: "Sinclair, A.H. & Barense, M.D."
 venue: "NeuroXchange Conference"
 date: 2018-04-01
