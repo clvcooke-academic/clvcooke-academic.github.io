@@ -11,7 +11,7 @@ Welcome! I'm Allie— I develop psychological interventions that help us learn f
 
 I'm currently a postdoctoral fellow at the **University of Pennsylvania**, where I am supported by the Joan Bossert Postdoctoral Fellowship in the <a href="https://web.sas.upenn.edu/pcssm/">Center for Science, Sustainability, & the Media.</a> I primarily collaborate with Prof. Emily Falk and others in the <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Communication Neuroscience Lab.</a>
 
-I completed my Ph.D. in Psychology & Neuroscience at **Duke University**, where I was co-supervised by <a href="https://www.adcocklab.org/">Prof. Alison Adcock</a> and <a href="https://www.mcablab.science/">Prof. Gregory Samanez-Larkin</a>. Before I came to Duke, I earned an Honours BSc in Psychology (Research Specialization) from the **University of Toronto**. There, I worked with <a href="https://barense.psych.utoronto.ca/">Prof. Morgan Barense</a> and <a href="https://socialcognitivescience.ca/">Prof. William Cunningham</a> to investigate how prediction error influences episodic memories and social learning. 
+I completed my Ph.D. in Psychology & Neuroscience at **Duke University**, where I was co-advised by <a href="https://www.adcocklab.org/">Prof. Alison Adcock</a> and <a href="https://www.mcablab.science/">Prof. Gregory Samanez-Larkin</a>. Prior to my Ph.D., I earned an Honours BSc in Psychology (Research Specialization) from the **University of Toronto**. There, I worked with <a href="https://barense.psych.utoronto.ca/">Prof. Morgan Barense</a> and <a href="https://socialcognitivescience.ca/">Prof. William Cunningham</a> to investigate how prediction error influences episodic memories and social learning. 
 
 
 
