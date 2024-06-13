@@ -17,8 +17,8 @@ I completed my Ph.D. in Psychology & Neuroscience at **Duke University**, where 
 
 Research Overview
 ======
-How can we improve learning and memory in **students** and **older adults**? How can **public health interventions** change beliefs and increase preventative health behaviors? How can we motivate individuals to take action to address **climate change**?
+How can we improve learning and memory in **students** and **older adults**? How can we change **health beliefs and behaviors** to help people protect themselves and others? How can we motivate people to take action to address **climate change**?
 
-These diverse real-world challenges are unified by common cognitive and neural mechanisms. My research on **learning, memory, and motivation** reveals these underlying mechanisms to inspire interventions. I translate findings from controlled experiments in the lab to impactful real-world settings. 
+These diverse real-world challenges are unified by common cognitive and neural mechanisms. I study the fundamental processes of **learning, memory, and motivation** to inspire interventions. I translate findings from controlled experiments in the lab to impactful real-world settings. 
 
-I'm interested in how our **cognitive context**— including factors like brain state, emotion, age, and social identity— shapes *how* and *what* we learn. My research program combines functional neuroimaging, behavioral experiments, and large-scale field studies. I curate a metaphorical *intervention toolbox* filled with flexible, generalizable strategies that can be used to improve **learning, belief updating, and behavior change** across domains. 
+I'm interested in how our **cognitive context**— including factors like brain state, emotion, age, and social identity— shapes *how* and *what* we learn. My research program combines functional neuroimaging, behavioral experiments, and large-scale online field studies. I curate a metaphorical *intervention toolbox* filled with flexible, generalizable strategies that can be used to improve **learning, belief updating, and behavior change** across domains. 
