@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm Allie, a cognitive neuroscientist studying learning, memory, and motivation. I develop psychological interventions that help us learn from error, update beliefs, and make choices that are better for our health and planet.
+Welcome! I'm Allie, a psychologist studying **motivation, behavior change, and memory**. I develop behavioral interventions that help us learn from error, update beliefs, and make choices that are better for our health and planet.
 
 I'm currently a postdoctoral fellow at the **University of Pennsylvania**, where I am supported by the Joan Bossert Postdoctoral Fellowship in the <a href="https://web.sas.upenn.edu/pcssm/">Center for Science, Sustainability, & the Media.</a> I primarily collaborate with Prof. Emily Falk and others in the <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Communication Neuroscience Lab.</a>
 
@@ -17,8 +17,8 @@ I completed my Ph.D. in Psychology & Neuroscience at **Duke University**, where 
 
 Research Overview
 ======
-How can we improve learning and memory in **students** and **older adults**? How can we change **health beliefs and behaviors** to help people protect themselves and others? How can we motivate people to take action to address **climate change**?
+How can we increase **prosocial behavior** to address climate change and public health issues? How can we correct **misinformation** and increase the **spread and impact** of high-quality information? How can educators help students **learn** from their mistakes?
 
-These diverse real-world challenges are unified by common cognitive and neural mechanisms. I study the fundamental processes of **learning, memory, and motivation** to inspire interventions. I translate findings from controlled experiments in the lab to impactful real-world settings. 
+These diverse real-world challenges are unified by common psychological and neural mechanisms. I study the fundamental processes of **motivation, learning, and memory** to inspire interventions. I translate findings from controlled experiments in the lab to impactful real-world settings. 
 
-I'm interested in how our **cognitive context**— including factors like brain state, emotion, age, and social identity— shapes *how* and *what* we learn. My research program combines functional neuroimaging, behavioral experiments, and large-scale online field studies. I curate a metaphorical *intervention toolbox* filled with flexible, generalizable strategies that can be used to improve **learning, belief updating, and behavior change** across domains. 
+I study how emotion, motivation, and social identity **shape *how* and *what* we learn**. My research program combines behavioral experiments, brain neuroimaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* filled with flexible, generalizable strategies that can be used to enhance **learning, belief updating, and prosocial behavior** across domains. 
