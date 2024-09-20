@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+    "Montreal, QC, Canada",
+    45.5031824,
+    -73.5698065
+  ],
+  [
+    "Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
+  ],
+  [
     "Durham, NC, USA",
     35.996653,
     -78.9018053
@@ -25,9 +35,19 @@ var addressPoints = [
     -74.0060152
   ],
   [
+    "Boston, MA, USA",
+    42.3554334,
+    -71.060511
+  ],
+  [
     "San Francisco, CA, USA",
     37.7792588,
     -122.4193286
+  ],
+  [
+    "Washington, D.C., USA",
+    38.8950368,
+    -77.0365427
   ],
   [
     "Toronto, ON, Canada",
@@ -38,6 +58,11 @@ var addressPoints = [
     "Atlanta, GA, USA",
     33.7489924,
     -84.3902644
+  ],
+  [
+    "Asheville, NC, USA",
+    35.595363,
+    -82.5508407
   ],
   [
     "Philadelphia, PA, USA",
