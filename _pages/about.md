@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm Allie, a psychologist studying **motivation, memory, and behavior change**. I develop behavioral interventions that help us learn from error, update beliefs, and make choices that are better for our health and planet.
+Welcome! I'm Allie, a psychologist studying how **motivation and emotion** shape our **memories, beliefs, and behaviors**. I develop interventions that help us learn from error, update beliefs, and make choices that are better for our health and planet.
 
 I am currently the Joan Bossert Postdoctoral Research Fellow at the **University of Pennsylvania**, primarily working with Prof. Emily Falk and others in the <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Communication Neuroscience Lab</a>. I am also a member of the <a href="https://www.asc.upenn.edu/">Annenberg School for Communication</a> and the <a href="https://web.sas.upenn.edu/pcssm/">Center for Science, Sustainability, & the Media</a>.
 
@@ -17,7 +17,7 @@ I completed my Ph.D. in Psychology & Neuroscience at **Duke University**, where 
 
 Research Overview
 ======
-How can we increase **prosocial behavior** to address climate change and public health issues? How can we correct **misinformation** and increase the **spread and impact** of high-quality information? How can educators help students **learn** from their mistakes?
+How can we motivate **prosocial behavior** to address climate change and public health issues? How can we correct **misinformation** and increase the **spread and impact** of high-quality information? How can educators help students **learn** from their mistakes?
 
 These diverse real-world challenges are unified by common psychological and neural mechanisms. I study how **emotion, motivation, and social identity** shape our memories, beliefs, and actions. I translate findings from controlled experiments in the lab to real-world settings. 
 
