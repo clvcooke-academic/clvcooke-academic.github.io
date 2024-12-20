@@ -3,7 +3,6 @@ title: "Personalized Feedback About Immunity Corrects Risk Misestimation and Mot
 collection: preprints
 permalink: /preprint/2024_Sinclair_ImmEst
 excerpt: ''
-date: 2024-06-20
 venue: 'PsyArXiv'
 paperurl: 'https://osf.io/preprints/psyarxiv/wgb9t'
 paperpdf: '/files/2024_Sinclair_ImmEst.pdf'
