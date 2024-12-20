@@ -3,7 +3,6 @@ title: "Behavioral Interventions Motivate Action to Address Climate Change"
 collection: preprints
 permalink: /preprint/2024_Sinclair_Tournament
 excerpt: ''
-date: 2024-12-20
 venue: 'PsyArXiv'
 paperurl: 'https://osf.io/preprints/psyarxiv/x3wsb'
 paperpdf: '/files/2024_Sinclair_Tournament.pdf'
