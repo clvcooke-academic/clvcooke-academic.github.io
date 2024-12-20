@@ -11,7 +11,7 @@ Welcome! I'm Allie, a psychologist studying how **motivation and emotion** shape
 
 I am currently the Joan Bossert Postdoctoral Research Fellow at the **University of Pennsylvania**, primarily working with Prof. Emily Falk and others in the <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Communication Neuroscience Lab</a>. I am also a member of the <a href="https://www.asc.upenn.edu/">Annenberg School for Communication</a> and the <a href="https://web.sas.upenn.edu/pcssm/">Center for Science, Sustainability, & the Media</a>.
 
-I completed my Ph.D. in Psychology & Neuroscience at **Duke University**, where I was co-advised by <a href="https://www.adcocklab.org/">Prof. Alison Adcock</a> and <a href="https://www.mcablab.science/">Prof. Gregory Samanez-Larkin</a>. Prior to my Ph.D., I earned an Honours B.Sc. in Psychology from the **University of Toronto**. There, I worked with <a href="https://barense.psych.utoronto.ca/">Prof. Morgan Barense</a> and <a href="https://socialcognitivescience.ca/">Prof. William Cunningham</a> to investigate how surprise influences episodic memories and social decisions. 
+I completed my Ph.D. in Psychology & Neuroscience at **Duke University**, where I was co-advised by <a href="https://www.adcocklab.org/">Prof. Alison Adcock</a> and <a href="https://www.mcablab.science/">Prof. Gregory Samanez-Larkin</a>. Prior to my Ph.D., I earned an Honours B.Sc. in Psychology from the **University of Toronto**. There, I worked with <a href="https://barense.psych.utoronto.ca/">Prof. Morgan Barense</a> and <a href="https://socialcognitivescience.ca/">Prof. William Cunningham</a> to explore how surprise influences episodic memories and social decisions. 
 
 
 
