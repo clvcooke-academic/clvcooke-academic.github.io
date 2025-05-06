@@ -3,6 +3,7 @@ title: "Perceived Self and Social Relevance of Content Motivates News Sharing Ac
 collection: preprints
 permalink: /publications/2025_Cosme_Sharing
 excerpt: ''
+date: 2025-01-23
 venue: 'PNAS Nexus'
 paperurl: 'https://academic.oup.com/pnasnexus/article/4/2/pgaf019/7974719'
 paperpdf: '/files/2025_Cosme_sharing.pdf'
