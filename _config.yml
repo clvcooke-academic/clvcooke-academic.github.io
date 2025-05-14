@@ -83,9 +83,9 @@ author:
   name             : "Alyssa H. Sinclair"
   avatar           : "bio-photo.jpg"
   bio              : "Postdoctoral Fellow, University of Pennsylvania"
-  location         : "Philadelphia, PA"
+  location         : 
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alyssa+sinclair"
+  pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=3T5usjAAAAAJ&hl=en&oi=ao"
   email            : "asinclair@falklab.org"
   researchgate     :  "https://www.researchgate.net/profile/Alyssa-Sinclair"
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-0447-3959"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   bluesky          : "https://bsky.app/profile/asinclair.bsky.social"
