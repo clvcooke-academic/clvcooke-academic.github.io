@@ -6,11 +6,11 @@ main:
   - title: "Preprints"
     url: /preprints/
 
-  - title: "Talks"
-    url: /talks/     
+  #- title: "Talks"
+  #  url: /talks/     
     
-  - title: "Awards"
-    url: /awards/
+  #- title: "Awards"
+  #  url: /awards/
 
   - title: "Press"
     url: /press/
