@@ -48,6 +48,10 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
+
+        {% if page.doi %}
+          <div class='altmetric-embed' data-badge-type='donut' data-doi={{ page.doi }}></div>
+        {% endif %}
     
         </header>
       {% endunless %}
