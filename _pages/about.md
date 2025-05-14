@@ -19,6 +19,6 @@ Research Overview
 ======
 How can we motivate **behavior change** to address climate change and public health issues? How can we correct **misinformation** and increase the **spread and impact** of high-quality information? How can educators help students **learn** from their mistakes?
 
-These diverse real-world challenges are unified by common psychological and neural mechanisms. I study how our time-traveling brains **recall the past** and **predict the future** to update beliefs and guide behavior. I am also interested in how **emotion and motivation** shape how we learn and make decisions.
+These real-world challenges are linked by common mechanisms— I study how our time-traveling brains **recall the past** and **predict the future** to update beliefs and guide behavior. I also explore how **emotion and motivation** shape how we learn and make decisions.
 
-My research program combines behavioral experiments, brain imaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* filled with flexible, generalizable strategies that can be used to enhance **learning, belief updating, and behavior change** across domains. 
+My research combines behavioral experiments, brain imaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* filled with flexible, generalizable strategies that can enhance **learning, belief updating,** and **behavior change** across domains. 
