@@ -23,4 +23,4 @@ How can we motivate **behavior change** to address climate change and promote he
 
 These real-world challenges are linked by common mechanisms— I study how our time-traveling brains **recall the past** and **predict the future** to update beliefs and guide behavior. I also explore how **emotion and motivation** shape how we learn and make decisions.
 
-My research combines behavioral experiments, brain imaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* filled with flexible, generalizable strategies that can enhance **learning, belief updating,** and **behavior change** across domains. 
+My research combines behavioral experiments, brain imaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* filled with generalizable strategies that can enhance **learning, belief updating,** and **behavior change** across domains. 
