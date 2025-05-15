@@ -19,7 +19,9 @@ I previously completed a Ph.D. in Psychology & Neuroscience at **Duke University
 
 Research Overview
 ======
-How can we motivate **behavior change** to address climate change and promote health? How can we correct **misinformation** and increase the **spread and impact** of high-quality information? How can educators help students **learn** from their mistakes?
+- How can we motivate **behavior change** to address climate change and promote health?
+- How can we correct **misconceptions** and counteract **misinformation**?
+- How can educators help students **learn** from their mistakes?
 
 These real-world challenges are linked by common mechanisms— I study how our time-traveling brains **recall the past** and **predict the future** to update beliefs and guide behavior. I also explore how **emotion and motivation** shape how we learn and make decisions.
 
