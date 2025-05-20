@@ -19,7 +19,7 @@ I previously completed a Ph.D. at **Duke University** (co-advised by <a href="ht
 
 Research Overview
 ======
-- How can we motivate **behavior change** to address climate change and improve health?
+- How can we motivate **behavior change** to improve health and address climate change?
 - How can we correct **misconceptions** and counteract **misinformation**?
 - How can educators help students **learn** from their mistakes?
 
