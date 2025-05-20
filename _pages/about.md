@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm Allie, a cognitive neuroscientist & psychologist studying how people _update_ their **memories, beliefs,** and **behaviors**. I develop interventions that help address challenges in **education, health,** and **climate change**. 
+Welcome! I'm Allie, a cognitive neuroscientist & psychologist studying how people update their **memories, beliefs,** and **behaviors**. I develop interventions that help address real-world challenges in **education, health,** and **climate change**. 
 
 **UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the [Department of Psychological Sciences](https://psychology.rice.edu/). Please reach out if you are interested in joining my lab! 
 
@@ -23,6 +23,6 @@ Research Overview
 - How can we correct **misconceptions** and counteract **misinformation**?
 - How can educators help students **learn** from their mistakes?
 
-These real-world challenges are linked by common mechanisms— I study how our time-traveling brains **recall the past** and **predict the future** to update beliefs and guide adaptive behavior. I also explore how **emotion and motivation** shape how we learn and make decisions.
+These real-world challenges are linked by common mechanisms— I study how our time-traveling brains **recall the past** and **predict the future** to guide adaptive behavior. I also explore how **emotion and motivation** shape how we learn and make decisions.
 
 My research combines behavioral experiments, brain imaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* of generalizable strategies that can enhance **learning, belief updating,** and **behavior change** across domains. 
