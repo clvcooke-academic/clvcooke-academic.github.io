@@ -1,5 +1,5 @@
 ---
-title: "NIH indirect cost cuts will affect the economy and employment"
+title: "NIH Indirect Cost Cuts Will Affect the Economy and Employment"
 collection: publications
 permalink: /publication/2025_Sinclair_NHB
 excerpt: ''
