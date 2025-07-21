@@ -11,6 +11,8 @@ Welcome! I'm Allie, a cognitive neuroscientist & psychologist studying how peopl
 
 **UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the Department of Psychological Sciences. Please **[check out my new lab website](https://www.sinclairlab-rice.com/)** and reach out if you are interested in joining the lab! 
 
+· · · · ·
+
 I am currently the Joan Bossert Postdoctoral Fellow at the **University of Pennsylvania**, working with Emily Falk in the <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Communication Neuroscience Lab</a>. I am also a member of the <a href="https://web.sas.upenn.edu/pcssm/">Center for Science, Sustainability, & the Media</a> and the <a href="https://www.annenbergpublicpolicycenter.org/">Annenberg Public Policy Center</a>.
 
 I previously completed a Ph.D. at **Duke University** (co-advised by <a href="https://www.adcocklab.org/">Alison Adcock</a> and <a href="https://www.mcablab.science/">Gregory Samanez-Larkin</a>) and a B.Sc. at the **University of Toronto** (honours thesis advised by [Morgan Barense](https://barense.psych.utoronto.ca/)).
