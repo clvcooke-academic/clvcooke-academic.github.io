@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I'm Allie, a cognitive neuroscientist & psychologist studying how people update their **memories, beliefs,** and **behaviors**. I develop interventions that help address real-world challenges in **education, health,** and **climate change**. 
 
-**UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the [Department of Psychological Sciences](https://psychology.rice.edu/). Please reach out if you are interested in joining my lab! 
+**UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the Department of Psychological Sciences. Please **[check out my new lab website](https://www.sinclairlab-rice.com/)** and reach out if you are interested in joining my lab! 
 
 I am currently the Joan Bossert Postdoctoral Fellow at the **University of Pennsylvania**, working with Emily Falk in the <a href="https://www.asc.upenn.edu/research/centers/communication-neuroscience-lab">Communication Neuroscience Lab</a>. I am also a member of the <a href="https://web.sas.upenn.edu/pcssm/">Center for Science, Sustainability, & the Media</a> and the <a href="https://www.asc.upenn.edu/">Annenberg School for Communication</a>.
 
