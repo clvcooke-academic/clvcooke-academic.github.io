@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I'm Allie, a cognitive neuroscientist & psychologist studying how people update their **memories, beliefs,** and **behaviors**. I develop interventions that help address real-world challenges in **education, health,** and **climate change**. 
 
-**UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the Department of Psychological Sciences. Please **[check out my new lab website](https://www.sinclairlab-rice.com/)** to learn about my research, publications, and more. This personal website is being retired and will no longer be updated.
+**UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the Department of Psychological Sciences. Please **[check out my new lab website](https://www.sinclairlab-rice.com/)** to learn about my research, publications, and more. **This personal website is being retired** and will no longer be updated.
 
 · · · · ·
 
