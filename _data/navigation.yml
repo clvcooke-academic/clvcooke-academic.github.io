@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Preprints"
-    url: /preprints/
+  #- title: "Preprints"
+  #  url: /preprints/
 
   #- title: "Talks"
   #  url: /talks/     
@@ -12,8 +12,8 @@ main:
   #- title: "Awards"
   #  url: /awards/
 
-  - title: "Press"
-    url: /press/
+  #- title: "Press"
+  #  url: /press/
 
   - title: "CV"
     url: /files/CV_Sinclair.pdf
