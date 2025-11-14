@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I'm Allie, a cognitive neuroscientist & psychologist studying how people update their **memories, beliefs,** and **behaviors**. I develop interventions that help address real-world challenges in **education, health,** and **climate change**. 
 
-**UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the Department of Psychological Sciences. Please **[check out my new lab website](https://www.sinclairlab-rice.com/)** and reach out if you are interested in joining the lab! 
+**UPDATE:** In 2026, I will be starting as an Assistant Professor at **Rice University** in the Department of Psychological Sciences. Please **[check out my new lab website](https://www.sinclairlab-rice.com/)** to learn about my research, publications, and more. This personal website is being retired and will no longer be updated.
 
 · · · · ·
 
@@ -27,4 +27,6 @@ Research Overview
 
 These real-world challenges are linked by common mechanisms— I study how our time-traveling brains **recall the past** and **predict the future** to guide adaptive behavior. I also explore how **emotion and motivation** shape the information we choose to consume and the details we remember. 
 
-My research combines behavioral experiments, brain imaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* of generalizable strategies that can enhance **learning, belief updating,** and **behavior change** across domains. For more information about my resaerch program, please **[see my lab website](https://www.sinclairlab-rice.com/projects)**.
+My research combines behavioral experiments, brain imaging (fMRI), and large-scale online field studies. I curate a metaphorical *intervention toolbox* of generalizable strategies that can enhance **learning, belief updating,** and **behavior change** across domains. 
+
+For more information about my research program, please **[see my lab website](https://www.sinclairlab-rice.com/projects)**. **Please migrate to the new lab website** for publications, current projects, press, presentations, and more!
