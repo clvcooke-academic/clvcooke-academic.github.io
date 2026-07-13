@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alyssa H. Sinclair"
 title_separator          : "-"
 name                     : &name "Alyssa H. Sinclair"
-description              : &description "Postdoctoral Fellow, Penn Center for Science, Sustainability, & the Media"
+description              : &description "Assistant Professor of Psychological Sciences"
 url                      : https://alyssasinclair.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clvcooke-academic/clvcooke-academic.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alyssa H. Sinclair"
   avatar           : "bio-photo.jpg"
-  bio              : "Postdoctoral Fellow, University of Pennsylvania"
+  bio              : "Assistant Professor of Psychological Sciences"
   location         : 
-  employer         :
+  employer         : "Rice University"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=3T5usjAAAAAJ&hl=en&oi=ao"
-  email            : "asinclair@falklab.org"
+  email            : "as667@rice.edu"
   researchgate     :  "https://www.researchgate.net/profile/Alyssa-Sinclair"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alyssa-sinclair-b17341155/"
   orcid            : "https://orcid.org/0000-0003-0447-3959"
   pinterest        :
   soundcloud       :
