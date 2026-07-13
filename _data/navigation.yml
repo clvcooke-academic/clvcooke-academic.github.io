@@ -15,7 +15,8 @@ main:
   #- title: "Press"
   #  url: /press/
 
-  #- title: "CV"
-  #  url: /files/CV_Sinclair.pdf
+  - title: "CV"
+    url: https://www.sinclairlab-rice.com/media_files/14467
+    
   - title: "Learning & Behavior Change Lab"
     url: https://sinclairlab.rice.edu/
